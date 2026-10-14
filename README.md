@@ -215,4 +215,4 @@ Wormux is provided as a **full free version**, with all features and updates inc
 Download Wormux today and experience the excitement of strategic battles with your favorite software mascots!
 
 ---
-**Last updated:** 2026-10-14 05:46:28 UTC
+**Last updated:** 2026-10-14 11:08:01 UTC
